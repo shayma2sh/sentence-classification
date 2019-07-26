@@ -1,0 +1,82 @@
+Am I eligible to apply for the title of URL?|| beQuestion
+I have a college post and a University post, can I use either employee number?|| beQuestion
+Is my employee number the one on my University card?|| beQuestion
+I'm not an employee of the University can I still access the services?|| beQuestion
+Do I need to pre-register?|| beQuestion
+My child/adult/elderly dependent doesn't live in Oxfordshire, can I still use the service?|| beQuestion
+My Family is overseas, can My Family Care help?|| beQuestion
+I was Dismissed. Can I continue UC SHIP?|| beQuestion
+I was Dismissed. Can I get a refund?|| beQuestion
+when can it be used?|| dateService
+When deciding which Access Category I am in, does UM round my age and years of service?|| dateService
+If I submitted a waiver and retired in 2017, when will I receive a lump sum payment for vacation?|| dateService
+When can sick leave be used?When will I receive my fall residence hall room assignment?|| dateService
+If I am currently in a tobacco cessation program, when can I recertify again?|| dateService
+I’m enrolling in a tobacco cessation program. When can I get a discount on my insurance premiums?|| dateService
+When will I receive Form 1099-R?|| dateService
+How long do I have to participate in the Wellness Incentive?|| dateService
+When should I receive Form 1095-C?|| dateService
+When will my HSA funds be available for claim reimbursement?|| dateService
+When is the deadline to apply?|| dateService
+When will I receive the program schedule?|| dateService
+
+How can I apply for a National Insurance (NI) number?|| getService
+How can I check if I have the Right to Work in the UK?|| getService
+How can I open a Bank account?|| getService
+How do I get MA Oxon status?|| getService
+How do I join a Trade Union?|| getService
+How do I renew my University card?|| getService
+What do I do if I wish to resign?|| getService
+What to do if I wish to retire?|| getService
+I have had a message back from My Family Care saying my verification has failed - what can I do?|| getService
+My preferred nursery/childminder/holiday club isn't on your list.  What can I do?|| getService
+What if the FCO advice changes whilst I am in the country?|| getService
+What is the policy excess?|| inqueryService
+I am travelling to a conference and plan to take personal time before and/or after the conference, what will be covered?|| inqueryService
+What is the procedure for insurance to be extended/ dates of travel changed?|| inqueryService
+What happens to my Cardinal Care health insurance if I graduate in the Spring quarter? What about Autumn or Winter quarter?|| inqueryService
+What is the Campus Health Service Fee? || inqueryService
+I have the Cardinal Care graduate student health insurance plan. What are my mental health benefits?|| inqueryService
+What is Stanford's policy about taking a voluntary leave of absence?|| inqueryService
+What are my options after graduation?|| inqueryService
+What are the plan options for Stanford Health Care Advantage (HMO)?|| inqueryService
+What other benefits and services does Stanford Health Care Advantage offer?|| inqueryService
+What are the different roles in the Time Collection System?|| inqueryService
+How are new employees added to the Time Collection System?|| inqueryService
+How does the system handle changes to employee status in the middle of a pay period?|| inqueryService
+How do I make corrections to prior time sheets?|| inqueryService
+How is overtime determined for prior pay period corrections?|| inqueryService
+How are Short-term Disability and Worker’s Compensation leaves handled in the Time Collection System?|| inqueryService
+How does the Time Collection System account for other types of leaves, such as sick, holiday, vacation, etc.?|| inqueryService
+What capabilities exist for reporting on data?|| inqueryService
+How are decisions made regarding delayed openings, early dismissals, or opening for essential services when there is severe weather?|| inqueryService
+I've lost my insurance ID card, how do I get a new one?|| inqueryService
+If my job description has not been updated recently, and no longer reflects the work being performed, how will this be handled during the mapping process?|| inqueryService
+Many individuals wear multiple hats. How will positions be handled that incorporate duties from multiple job functions?|| inqueryService
+How did managers and supervisors participate in the mapping process?|| inqueryService
+What is ARH?|| inqueryService
+What is the U Card?|| inqueryService
+What if I have other questions... what should I do?|| inqueryService
+ur department will observe the University closure; however, we need two employees to continue to work to maintain activity on a project. What compensation options are available to these two employees?|| inqueryService
+Where do I go on the first day?|| placeService
+Where can I view the detailed MSc course and elective booklets?|| placeService
+Where can I find accommodation in Oxford?|| placeService
+I’m interested in teaching. Where can I get more training and experience?|| placeService
+where can I find information on the Flexible Spending Account (FSA) programs?|| placeService
+Where can I find more information on Maternity Leave?|| placeService
+Where can I find out more information about On-Campus Tuition Remission?|| placeService
+Where can I find information/forms pertaining to the Off-Campus Tuition Remission benefit?|| placeService
+Where can I find out more information about the tuition exchange program?|| placeService
+Where can I find details about what my plan covers?|| placeService
+How much time do Scout courses require?|| quantityService
+What is the cost of attendance?|| quantityService
+What is the cost of tuition and health insurance plan?|| quantityService
+How much will it cost me to finish my degree?|| quantityService
+How many UWW students are awarded financial aid each year?|| quantityService
+How many classes do I have to take per semester?|| quantityService
+What is the minimum TOEFL score an applicant must receive to be considered for admission?|| quantityService
+What is the minimum IELTS score an applicant must receive to be considered for admission?|| quantityService
+How many items can I request?|| quantityService
+How much are tuition and fees?|| quantityService
+How much does it cost?|| quantityService
+What is the cost of living for most ESL teachers?|| quantityService
